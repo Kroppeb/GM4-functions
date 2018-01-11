@@ -1,0 +1,16 @@
+scoreboard players operation §d1_0 GM4_spread_data += @s[scores={GM4_spread_cloc=0}] GM4_spread_data
+scoreboard players operation §d1_1 GM4_spread_data += @s[scores={GM4_spread_cloc=1}] GM4_spread_data
+scoreboard players operation §d1_2 GM4_spread_data += @s[scores={GM4_spread_cloc=2}] GM4_spread_data
+scoreboard players operation §d1_3 GM4_spread_data += @s[scores={GM4_spread_cloc=3}] GM4_spread_data
+scoreboard players operation §d1_4 GM4_spread_data += @s[scores={GM4_spread_cloc=4}] GM4_spread_data
+scoreboard players operation §d1_5 GM4_spread_data += @s[scores={GM4_spread_cloc=5}] GM4_spread_data
+scoreboard players operation §d1_6 GM4_spread_data += @s[scores={GM4_spread_cloc=6}] GM4_spread_data
+scoreboard players operation §d1_7 GM4_spread_data += @s[scores={GM4_spread_cloc=7}] GM4_spread_data
+scoreboard players operation §d1_8 GM4_spread_data += @s[scores={GM4_spread_cloc=8}] GM4_spread_data
+scoreboard players operation §d1_9 GM4_spread_data += @s[scores={GM4_spread_cloc=9}] GM4_spread_data
+scoreboard players operation §d1_10 GM4_spread_data += @s[scores={GM4_spread_cloc=10}] GM4_spread_data
+scoreboard players operation §d1_11 GM4_spread_data += @s[scores={GM4_spread_cloc=11}] GM4_spread_data
+scoreboard players operation §d1_12 GM4_spread_data += @s[scores={GM4_spread_cloc=12}] GM4_spread_data
+scoreboard players operation §d1_13 GM4_spread_data += @s[scores={GM4_spread_cloc=13}] GM4_spread_data
+scoreboard players operation §d1_14 GM4_spread_data += @s[scores={GM4_spread_cloc=14}] GM4_spread_data
+scoreboard players operation §d1_15 GM4_spread_data += @s[scores={GM4_spread_cloc=15}] GM4_spread_data
