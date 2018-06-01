@@ -1,4 +1,6 @@
+#tag for advancement
 tag @s add GM4_ESC
+#each effect for entity
 execute if entity @s[type=cave_spider] run effect give @s minecraft:jump_boost 4 1
 execute if entity @s[type=creeper] run effect give @s minecraft:regeneration 4 0
 execute if entity @s[type=shulker] as @a[distance=..3] run effect give @s minecraft:blindness 3 9
