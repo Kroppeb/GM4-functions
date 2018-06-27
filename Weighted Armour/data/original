@@ -1,0 +1,5 @@
+command_block 5 _ {TrackOutput:0b,Command:\"summon falling_block ~ ~1 ~ {Block:redstone_block,Motion:[0.0,0.35,0.0]}\"}"},
+chain_command_block 5 _ {TrackOutput:0b,auto:1,Command:\"scoreboard objectives add GM4_A armor\"}"},
+chain_command_block 5 _ {TrackOutput:0b,auto:1,Command:\"effect @a[score_GM4_A_min=8] 2 1 0 true\"}"},
+chain_command_block 5 _ {TrackOutput:0b,auto:1,Command:\"effect @a[score_GM4_A_min=16] 2 1 1 true\"}"},
+chain_command_block 5 _ {TrackOutput:0b,auto:1,Command:\"effect @a[score_GM4_A_min=20] 2 1 2 true\"}"},

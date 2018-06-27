@@ -1,0 +1,16 @@
+{
+	"display": {
+        "icon": {
+            "item": "minecraft:iron_chestplate"
+        },
+        "title": "Slow and Steady",
+        "description": "Get slowed down to a snail pace caused by your heavy armor",
+        "frame": "task"
+    },
+	"parent":"gm4:main",
+    "criteria": {
+		"slowed": {
+        	"trigger": "minecraft:impossible"
+        }
+    }
+}
